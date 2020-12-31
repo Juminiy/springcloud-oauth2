@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>yaohw微服务统一认证</title>
+    <title>微服务统一认证</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/signin.css" rel="stylesheet">
@@ -25,8 +25,8 @@
       </form>
     </div>
     <footer>
-      <p>support by: yaohw</p>
-      <p>email: <a href="mailto:yaohw484@gmail.com">yaohw484@gmail.com</a>.</p>
+      <p>support by: juminiy</p>
+      <p>email: <a href="mailto:hln0x29a@gmail.com">hln0x29a@gmail.com</a>.</p>
     </footer>
   </body>
 </html>
